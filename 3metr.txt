@@ -1,0 +1,26 @@
+Addr: c4:e9:84:e5:4c:c0 Name: 3.14 Strength: -53
+Addr: c4:e9:84:e5:4c:c0 Name: 3.14 Strength: -53
+Addr: c4:e9:84:e5:4c:c0 Name: 3.14 Strength: -53
+Addr: c4:e9:84:e5:4c:c0 Name: 3.14 Strength: -52
+Addr: c4:e9:84:e5:4c:c0 Name: 3.14 Strength: -51
+Addr: 70:4f:57:59:9c:a6 Name: Sundorbon Strength: -60
+Addr: 70:4f:57:59:9c:a6 Name: Sundorbon Strength: -59
+Addr: 54:27:1e:28:52:dd Name: gabriela-N550JV Strength: -72
+Addr: 70:4f:57:59:9c:a6 Name: Sundorbon Strength: -59
+Addr: 70:4f:57:59:9c:a6 Name: Sundorbon Strength: -60
+Addr: c4:e9:84:e5:4c:c0 Name: 3.14 Strength: -46
+Addr: 32:07:4d:65:1e:16 Name: AndroidAP3197 Strength: -62
+Addr: a8:7d:12:a0:94:de Name: HUAWEI P20 lite Strength: -67
+Addr: 32:07:4d:65:1e:16 Name: AndroidAP3197 Strength: -58
+Addr: 7e:11:cb:54:66:48 Name: XXC Strength: -61
+Addr: a8:7d:12:a0:94:de Name: HUAWEI P20 lite Strength: -69
+Addr: 50:c7:bf:76:4e:82 Name: Echelon Strength: -73
+Addr: a4:2b:b0:d4:19:84 Name: JanZwojnicaTrzeci Strength: -73
+Addr: 50:c7:bf:76:4e:82 Name: Echelon Strength: -74
+Addr: 0c:80:63:55:d1:80 Name: TP-Link_D180 Strength: -68
+Addr: 0c:80:63:55:d1:80 Name: TP-Link_D180 Strength: -67
+Addr: 0c:80:63:55:d1:80 Name: TP-Link_D180 Strength: -67
+Addr: c8:6c:87:40:d8:2b Name: TETYANA-PC_Network Strength: -47
+Addr: 70:62:b8:30:81:42 Name: jesz_mniej_kupisz_sobie_internet Strength: -76
+Addr: c8:6c:87:40:d8:2b Name: TETYANA-PC_Network Strength: -47
+Addr: 0c:80:63:55:d1:80 Name: TP-Link_D180 Strength: -69

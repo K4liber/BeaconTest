@@ -1,0 +1,45 @@
+Addr: c8:3a:35:3c:f4:70 Name: SBK Strength: -47
+Addr: 70:4f:57:59:9c:a6 Name: Sundorbon Strength: -67
+Addr: 70:4f:57:59:9c:a6 Name: Sundorbon Strength: -67
+Addr: 70:4f:57:59:9c:a6 Name: Sundorbon Strength: -67
+Addr: e4:42:a6:94:3b:3a Name: CICHO Strength: -86
+Addr: c4:e9:84:e5:4c:c0 Name: 3.14 Strength: -51
+Addr: 50:c7:bf:76:4e:82 Name: Echelon Strength: -70
+Addr: 50:c7:bf:76:4e:82 Name: Echelon Strength: -70
+Addr: 50:c7:bf:76:4e:82 Name: Echelon Strength: -70
+Addr: 18:a6:f7:ba:54:a8 Name: Toshiba leading Strength: -91
+Addr: c8:6c:87:40:d8:2b Name: TETYANA-PC_Network Strength: -57
+Addr: 1c:a6:f7:ba:54:a8 Name: Be the guest Strength: -89
+Addr: 1c:a6:f7:ba:54:a8 Name: Be the guest Strength: -89
+Addr: 0c:80:63:55:d1:80 Name: TP-Link_D180 Strength: -67
+Addr: 0c:80:63:55:d1:80 Name: TP-Link_D180 Strength: -67
+Addr: 0c:80:63:55:d1:80 Name: TP-Link_D180 Strength: -67
+Addr: c8:6c:87:40:d8:2b Name: TETYANA-PC_Network Strength: -59
+Addr: c4:e9:84:e5:4c:c0 Name: 3.14 Strength: -49
+Addr: 70:4f:57:59:9c:a6 Name: Sundorbon Strength: -63
+Addr: c8:3a:35:3c:f4:70 Name: SBK Strength: -44
+Addr: c4:e9:84:e5:4c:c0 Name: 3.14 Strength: -37
+Addr: 32:07:4d:65:1e:16 Name: AndroidAP3197 Strength: -54
+Addr: 32:07:4d:65:1e:16 Name: AndroidAP3197 Strength: -51
+Addr: 7e:11:cb:54:66:48 Name: XXC Strength: -63
+Addr: 50:c7:bf:76:4e:82 Name: Echelon Strength: -64
+Addr: a4:2b:b0:d4:19:84 Name: JanZwojnicaTrzeci Strength: -73
+Addr: 0c:80:63:55:d1:80 Name: TP-Link_D180 Strength: -77
+Addr: 0c:80:63:55:d1:80 Name: TP-Link_D180 Strength: -67
+Addr: 50:c7:bf:76:4e:82 Name: Echelon Strength: -84
+Addr: 0c:80:63:55:d1:80 Name: TP-Link_D180 Strength: -66
+Addr: 0c:80:63:55:d1:80 Name: TP-Link_D180 Strength: -67
+Addr: 0c:80:63:55:d1:80 Name: TP-Link_D180 Strength: -67
+Addr: c8:6c:87:40:d8:2b Name: TETYANA-PC_Network Strength: -59
+Addr: c8:6c:87:40:d8:2b Name: TETYANA-PC_Network Strength: -58
+Addr: c8:6c:87:40:d8:2b Name: TETYANA-PC_Network Strength: -60
+Addr: c8:6c:87:40:d8:2b Name: TETYANA-PC_Network Strength: -60
+Addr: c8:6c:87:40:d8:2b Name: TETYANA-PC_Network Strength: -63
+Addr: c4:e9:84:e5:4c:c0 Name: 3.14 Strength: -44
+Addr: c4:e9:84:e5:4c:c0 Name: 3.14 Strength: -42
+Addr: c4:e9:84:e5:4c:c0 Name: 3.14 Strength: -43
+Addr: c4:e9:84:e5:4c:c0 Name: 3.14 Strength: -43
+Addr: c4:e9:84:e5:4c:c0 Name: 3.14 Strength: -41
+Addr: c4:e9:84:e5:4c:c0 Name: 3.14 Strength: -43
+Addr: c4:e9:84:e5:4c:c0 Name: 3.14 Strength: -43
+Addr: c4:e9:84:e5:4c:c0 Name: 3.14 Strength: -43
